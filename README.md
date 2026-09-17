@@ -6,5 +6,7 @@
 
 <img width="1920" height="1080" alt="pauli-thesis-novelty" src="https://github.com/user-attachments/assets/a23516aa-5885-4d44-8063-5f021979c19c" />
 
-## Projection of thesis to the future
+## Projection of the thesis to the future
+
+<img width="1920" height="1080" alt="pauli-thesis-future" src="https://github.com/user-attachments/assets/4272a275-f03d-4a99-9086-c4acf5e48250" />
 
