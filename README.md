@@ -1,11 +1,26 @@
-# pauli_dissertation
+# Pauli Putkiranta PhD defense
 
-## Advancements with respect to the past
+# Advancements with respect to the past
+
+## Major points
 
 <img width="2172" height="724" alt="8270a969-c377-4626-9cc7-f7e5054a968e" src="https://github.com/user-attachments/assets/d976749a-ab52-4de1-b3be-a646baa5f8de" />
 
+## In detail
+
 <img width="1920" height="1080" alt="pauli-thesis-novelty" src="https://github.com/user-attachments/assets/a23516aa-5885-4d44-8063-5f021979c19c" />
 
+## Machine learning
+
+<img width="1920" height="1080" alt="pauli-thesis-machine-learning" src="https://github.com/user-attachments/assets/cb2e6d03-0fde-4bd4-b689-d0368a2f8b5f" />
+
+## Measures of diversity
+
+<img width="1672" height="941" alt="bb2d4233-ab3f-4127-a5d3-f2c7b1822bdd" src="https://github.com/user-attachments/assets/e6610be8-6bd6-40c8-aa0c-150f229c5def" />
+
+## Projection of the thesis to the future
+
+All maps are wrong, especially those we think are true
 
 ## Projection of the thesis to the future
 
