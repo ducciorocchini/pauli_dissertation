@@ -301,5 +301,3 @@ Species richness, mean plot richness and beta diversity operate at different spa
 Your results show that the relationship between spectral heterogeneity and biodiversity depends on the diversity metric. Does this mean that asking whether remote sensing can measure “biodiversity” is statistically too general a question?
 
 **Follow-up:** Should future studies define the targeted biodiversity dimension before selecting the sensor, spatial scale and modelling method?
-
-> pwd: uniguest
